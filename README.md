@@ -1,4 +1,5 @@
 # nakul-demo
 my first git repository
 <br>
-Author - Nakul Gupta
+Author - Nakul Gupta(College)
+
